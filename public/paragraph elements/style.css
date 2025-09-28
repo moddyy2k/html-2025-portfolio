@@ -1,0 +1,9 @@
+.f1{
+    position: relative;
+    background-color: brown;
+    text-align: center;
+    color: darksalmon;
+}
+h1{
+    -webkit-text-emphasis: open;
+}
